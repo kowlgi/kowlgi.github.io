@@ -12,8 +12,10 @@ url:                 https://kowlgi.github.io
 baseurl:             ''
 paginate:            5
 
-# About/contact author:
+# About/contact
+author:
   name:              Sunil Kowlgi
   url:               https://twitter.com/kowlgi
+
 # Custom vars
 version:             1.0.0
