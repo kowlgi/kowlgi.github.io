@@ -6,16 +6,14 @@ relative_permalinks: true
 
 # Setup
 title:               Sunil Kowlgi
-tagline:             'Analysis and opinions on mobile apps'
-description:         'A blog with analysis and opinions on mobile apps'
+tagline:             'Fresh perspective on the mobile-first world'
+description:         'An opinion blog that threads together mobile app UX, technology, culture and business.'
 url:                 http://kowlgi.github.io
 baseurl:             ''
 paginate:            5
 
-# About/contact
-author:
+# About/contact author:
   name:              Sunil Kowlgi
   url:               https://twitter.com/kowlgi
-
-# Custom vars
+Custom vars
 version:             1.0.0
