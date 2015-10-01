@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Sunil Kowlgi
-tagline:             'Perspective on the mobile-first world'
-description:         'An opinion blog that threads together mobile app UX, technology, culture and business.'
+tagline:             'Mobile app teardowns'
+description:         'An opinion blog that threads together mobile app UX, technology, culture and business'
 url:                 https://kowlgi.github.io
 baseurl:             ''
 paginate:            5
