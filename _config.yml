@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Sunil Kowlgi
-tagline:             'Fresh perspective on the mobile-first world'
+tagline:             'Perspective on the mobile-first world'
 description:         'An opinion blog that threads together mobile app UX, technology, culture and business.'
 url:                 http://kowlgi.github.io
 baseurl:             ''
