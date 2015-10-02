@@ -9,9 +9,9 @@ comments:            true
 title:               App Lens
 tagline:             'A closer look at interesting mobile apps'
 description:         'An opinion blog threading together mobile app UX, technology, culture and business'
-url:                 https://kowlgi.github.io
-baseurl:             ''
-paginate:            5
+url:                 http://kowlgi.github.io
+baseurl:             ""
+paginate:            1
 
 # About/contact
 author:
