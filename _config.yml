@@ -6,9 +6,9 @@ relative_permalinks: true
 comments:            true
 
 # Setup
-title:               Sunil Kowlgi
-tagline:             'Mobile app teardowns'
-description:         'An opinion blog that threads together mobile app UX, technology, culture and business'
+title:               App Lens
+tagline:             'A closer look at interesting mobile apps'
+description:         'An opinion blog threading together mobile app UX, technology, culture and business'
 url:                 https://kowlgi.github.io
 baseurl:             ''
 paginate:            5
